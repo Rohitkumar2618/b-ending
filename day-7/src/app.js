@@ -33,6 +33,5 @@ app.get("/notes",async (req,res)=>{
 })
 
 
-connectToDb()
 
 module.exports = app
